@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>“Dicas MasterAula” por MasterAula está sob licença [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).</copyright>
-    <lastBuildDate>Mon, 20 Jun 2016 20:33:19 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 02 Apr 2017 17:42:56 -0300</lastBuildDate>
     
 	<atom:link href="https://mupi.github.io/dicas/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Atualidades</title>
+      <link>https://mupi.github.io/dicas/tags/atualidades/</link>
+      <pubDate>Sun, 02 Apr 2017 17:42:56 -0300</pubDate>
+      
+      <guid>https://mupi.github.io/dicas/tags/atualidades/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bcn</title>
+      <link>https://mupi.github.io/dicas/tags/bcn/</link>
+      <pubDate>Tue, 11 Apr 2017 17:39:29 -0300</pubDate>
+      
+      <guid>https://mupi.github.io/dicas/tags/bcn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Black Mirror</title>
+      <link>https://mupi.github.io/dicas/tags/black-mirror/</link>
+      <pubDate>Fri, 31 Mar 2017 18:11:53 -0300</pubDate>
+      
+      <guid>https://mupi.github.io/dicas/tags/black-mirror/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowdfunding</title>
+      <link>https://mupi.github.io/dicas/tags/crowdfunding/</link>
+      <pubDate>Tue, 28 Mar 2017 18:07:58 -0300</pubDate>
+      
+      <guid>https://mupi.github.io/dicas/tags/crowdfunding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Curadoria</title>
@@ -40,11 +76,29 @@
     </item>
     
     <item>
+      <title>Educação Brasileira</title>
+      <link>https://mupi.github.io/dicas/tags/educa%C3%A7%C3%A3o-brasileira/</link>
+      <pubDate>Tue, 11 Apr 2017 17:39:29 -0300</pubDate>
+      
+      <guid>https://mupi.github.io/dicas/tags/educa%C3%A7%C3%A3o-brasileira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Emoji</title>
       <link>https://mupi.github.io/dicas/tags/emoji/</link>
       <pubDate>Mon, 28 Mar 2016 19:56:11 -0300</pubDate>
       
       <guid>https://mupi.github.io/dicas/tags/emoji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Era Da Informação</title>
+      <link>https://mupi.github.io/dicas/tags/era-da-informa%C3%A7%C3%A3o/</link>
+      <pubDate>Sun, 02 Apr 2017 17:42:56 -0300</pubDate>
+      
+      <guid>https://mupi.github.io/dicas/tags/era-da-informa%C3%A7%C3%A3o/</guid>
       <description></description>
     </item>
     
@@ -85,29 +139,11 @@
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>https://mupi.github.io/dicas/tags/hugo/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
-      
-      <guid>https://mupi.github.io/dicas/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Infográfico</title>
       <link>https://mupi.github.io/dicas/tags/infogr%C3%A1fico/</link>
       <pubDate>Mon, 27 Jun 2016 20:39:32 -0300</pubDate>
       
       <guid>https://mupi.github.io/dicas/tags/infogr%C3%A1fico/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jekyll</title>
-      <link>https://mupi.github.io/dicas/tags/jekyll/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
-      
-      <guid>https://mupi.github.io/dicas/tags/jekyll/</guid>
       <description></description>
     </item>
     
@@ -121,11 +157,20 @@
     </item>
     
     <item>
-      <title>Migration</title>
-      <link>https://mupi.github.io/dicas/tags/migration/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      <title>Jornalismo</title>
+      <link>https://mupi.github.io/dicas/tags/jornalismo/</link>
+      <pubDate>Sun, 02 Apr 2017 17:42:56 -0300</pubDate>
       
-      <guid>https://mupi.github.io/dicas/tags/migration/</guid>
+      <guid>https://mupi.github.io/dicas/tags/jornalismo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notícias</title>
+      <link>https://mupi.github.io/dicas/tags/not%C3%ADcias/</link>
+      <pubDate>Wed, 19 Apr 2017 18:20:16 -0300</pubDate>
+      
+      <guid>https://mupi.github.io/dicas/tags/not%C3%ADcias/</guid>
       <description></description>
     </item>
     
@@ -135,6 +180,15 @@
       <pubDate>Tue, 01 Mar 2016 18:38:18 -0300</pubDate>
       
       <guid>https://mupi.github.io/dicas/tags/odas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Palestra</title>
+      <link>https://mupi.github.io/dicas/tags/palestra/</link>
+      <pubDate>Fri, 31 Mar 2017 18:11:53 -0300</pubDate>
+      
+      <guid>https://mupi.github.io/dicas/tags/palestra/</guid>
       <description></description>
     </item>
     
@@ -157,11 +211,47 @@
     </item>
     
     <item>
+      <title>Plano De Aula</title>
+      <link>https://mupi.github.io/dicas/tags/plano-de-aula/</link>
+      <pubDate>Sun, 02 Apr 2017 17:42:56 -0300</pubDate>
+      
+      <guid>https://mupi.github.io/dicas/tags/plano-de-aula/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reforma Do Ensino Médio</title>
+      <link>https://mupi.github.io/dicas/tags/reforma-do-ensino-m%C3%A9dio/</link>
+      <pubDate>Wed, 19 Apr 2017 18:20:16 -0300</pubDate>
+      
+      <guid>https://mupi.github.io/dicas/tags/reforma-do-ensino-m%C3%A9dio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Séries</title>
+      <link>https://mupi.github.io/dicas/tags/s%C3%A9ries/</link>
+      <pubDate>Fri, 31 Mar 2017 18:11:53 -0300</pubDate>
+      
+      <guid>https://mupi.github.io/dicas/tags/s%C3%A9ries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tab Uol</title>
       <link>https://mupi.github.io/dicas/tags/tab-uol/</link>
       <pubDate>Mon, 28 Mar 2016 19:56:11 -0300</pubDate>
       
       <guid>https://mupi.github.io/dicas/tags/tab-uol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tecnologia</title>
+      <link>https://mupi.github.io/dicas/tags/tecnologia/</link>
+      <pubDate>Fri, 31 Mar 2017 18:11:53 -0300</pubDate>
+      
+      <guid>https://mupi.github.io/dicas/tags/tecnologia/</guid>
       <description></description>
     </item>
     

@@ -2,6 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mupi.github.io/dicas/dicas/noticias-semana-20-03-17/</loc>
+    <lastmod>2017-04-19T18:20:16-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mupi.github.io/dicas/dicas/nova-base-curricular/</loc>
+    <lastmod>2017-04-11T17:39:29-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mupi.github.io/dicas/dicas/fact-checking-day/</loc>
+    <lastmod>2017-04-02T17:42:56-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mupi.github.io/dicas/dicas/precisamos-falar-sobre-black-mirror/</loc>
+    <lastmod>2017-03-31T18:11:53-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mupi.github.io/dicas/dicas/projeto-floreser/</loc>
+    <lastmod>2017-03-28T18:07:58-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mupi.github.io/dicas/dicas/perfil-professor-brasileiro/</loc>
     <lastmod>2016-06-27T20:39:32-03:00</lastmod>
   </url>
@@ -42,27 +67,31 @@
   </url>
   
   <url>
-    <loc>https://mupi.github.io/dicas/post/migrate-from-jekyll/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>https://mupi.github.io/dicas/tags/atualidades/</loc>
+    <lastmod>2017-04-02T17:42:56-03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mupi.github.io/dicas/post/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>https://mupi.github.io/dicas/tags/bcn/</loc>
+    <lastmod>2017-04-11T17:39:29-03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mupi.github.io/dicas/post/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mupi.github.io/dicas/post/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://mupi.github.io/dicas/tags/black-mirror/</loc>
+    <lastmod>2017-03-31T18:11:53-03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mupi.github.io/dicas/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mupi.github.io/dicas/tags/crowdfunding/</loc>
+    <lastmod>2017-03-28T18:07:58-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -80,7 +109,7 @@
   
   <url>
     <loc>https://mupi.github.io/dicas/dicas/</loc>
-    <lastmod>2016-06-27T20:39:32-03:00</lastmod>
+    <lastmod>2017-04-19T18:20:16-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -91,8 +120,20 @@
   </url>
   
   <url>
+    <loc>https://mupi.github.io/dicas/tags/educa%C3%A7%C3%A3o-brasileira/</loc>
+    <lastmod>2017-04-11T17:39:29-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mupi.github.io/dicas/tags/emoji/</loc>
     <lastmod>2016-03-28T19:56:11-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mupi.github.io/dicas/tags/era-da-informa%C3%A7%C3%A3o/</loc>
+    <lastmod>2017-04-02T17:42:56-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -121,20 +162,8 @@
   </url>
   
   <url>
-    <loc>https://mupi.github.io/dicas/tags/hugo/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mupi.github.io/dicas/tags/infogr%C3%A1fico/</loc>
     <lastmod>2016-06-27T20:39:32-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mupi.github.io/dicas/tags/jekyll/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -145,20 +174,32 @@
   </url>
   
   <url>
-    <loc>https://mupi.github.io/dicas/tags/migration/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>https://mupi.github.io/dicas/tags/jornalismo/</loc>
+    <lastmod>2017-04-02T17:42:56-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mupi.github.io/dicas/tags/not%C3%ADcias/</loc>
+    <lastmod>2017-04-19T18:20:16-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mupi.github.io/dicas/</loc>
-    <lastmod>2016-06-27T20:39:32-03:00</lastmod>
+    <lastmod>2017-04-19T18:20:16-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mupi.github.io/dicas/tags/odas/</loc>
     <lastmod>2016-03-01T18:38:18-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mupi.github.io/dicas/tags/palestra/</loc>
+    <lastmod>2017-03-31T18:11:53-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -175,8 +216,20 @@
   </url>
   
   <url>
-    <loc>https://mupi.github.io/dicas/post/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>https://mupi.github.io/dicas/tags/plano-de-aula/</loc>
+    <lastmod>2017-04-02T17:42:56-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mupi.github.io/dicas/tags/reforma-do-ensino-m%C3%A9dio/</loc>
+    <lastmod>2017-04-19T18:20:16-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mupi.github.io/dicas/tags/s%C3%A9ries/</loc>
+    <lastmod>2017-03-31T18:11:53-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -188,7 +241,13 @@
   
   <url>
     <loc>https://mupi.github.io/dicas/tags/</loc>
-    <lastmod>2016-06-20T20:33:19-03:00</lastmod>
+    <lastmod>2017-04-02T17:42:56-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mupi.github.io/dicas/tags/tecnologia/</loc>
+    <lastmod>2017-03-31T18:11:53-03:00</lastmod>
     <priority>0</priority>
   </url>
   

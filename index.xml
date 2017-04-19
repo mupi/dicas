@@ -7,10 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>“Dicas MasterAula” por MasterAula está sob licença [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).</copyright>
-    <lastBuildDate>Mon, 27 Jun 2016 20:39:32 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2017 18:20:16 -0300</lastBuildDate>
     
 	<atom:link href="https://mupi.github.io/dicas/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Notícias da última semana</title>
+      <link>https://mupi.github.io/dicas/dicas/noticias-semana-20-03-17/</link>
+      <pubDate>Wed, 19 Apr 2017 18:20:16 -0300</pubDate>
+      
+      <guid>https://mupi.github.io/dicas/dicas/noticias-semana-20-03-17/</guid>
+      <description>Oi, tudo bem?
+A semana passada foi movimentada! Muitas notícias circulando a nível nacional sobre greves, sobre as mudanças propostas para previdência e sobre as mudanças no Enem 2017. Para dar uma mãozinha, caso você não tenha tido tempo de se atualizar, selecionei algumas notícias que reverberaram no mundo da educação e que possuem informações importantes para nos situarmos no que vem pela frente:
+ Mudanças no Enem 2017 (gostei de uma tabela comparativa que essa notícia trouxe) (http://g1.</description>
+    </item>
+    
+    <item>
+      <title>Temos que ficar atentos à base</title>
+      <link>https://mupi.github.io/dicas/dicas/nova-base-curricular/</link>
+      <pubDate>Tue, 11 Apr 2017 17:39:29 -0300</pubDate>
+      
+      <guid>https://mupi.github.io/dicas/dicas/nova-base-curricular/</guid>
+      <description>Oi, tudo bem?
+Você está acompanhando as notícias sobre a tramitação da Base Nacional Curricular Comum (BNCC)? Sei que o cotidiano é corrido e que nem sempre dá tempo de ficar por dentro, por isso fiz um resumo sobre a situação da BNCC (onde estamos e para onde vamos) e quais são os pontos que levantaram polêmicas na terceira versão.
+Situação  Onde estamos: a terceira versão da BNCC foi lançada dia 06/04, e está disponível para leitura aqui.</description>
+    </item>
+    
+    <item>
+      <title>Ensine seus alunos a validar informações da internet</title>
+      <link>https://mupi.github.io/dicas/dicas/fact-checking-day/</link>
+      <pubDate>Sun, 02 Apr 2017 17:42:56 -0300</pubDate>
+      
+      <guid>https://mupi.github.io/dicas/dicas/fact-checking-day/</guid>
+      <description>Oi, tudo bem?
+Uma das tormentas para o educador do século XXI é ensinar aos alunos como lidar com esse mar de informaçãoes na internet. Pesquisar, embora pareça algo simples de se fazer na internet, é uma ação complexa pois sabemos que é preciso construir e definir minimamente critérios para que uma pesquisa seja de qualidade. Mas por que estou falando disso com você num domingo? Bom, é porque hoje é o dia internacional da &amp;ldquo;checagem de fatos&amp;rdquo; (o nome original é em inglês, &amp;ldquo;fact-checking&amp;rdquo;).</description>
+    </item>
+    
+    <item>
+      <title>Precisamos falar sobre Black Mirror</title>
+      <link>https://mupi.github.io/dicas/dicas/precisamos-falar-sobre-black-mirror/</link>
+      <pubDate>Fri, 31 Mar 2017 18:11:53 -0300</pubDate>
+      
+      <guid>https://mupi.github.io/dicas/dicas/precisamos-falar-sobre-black-mirror/</guid>
+      <description>Oi, tudo bem?
+Você já assistiu à série Black Mirror, uma série que está disponível no Netflix, sobre tecnologia e problemas da sociedade atual? (clique aqui para saber mais ) Bem, achei interessante compartilhar uma programação imperdível que começará dia 3 de abril, à noite: um ciclo de palestras/debates que será promovido pelo SESC (transmitido online) chamado &amp;ldquo;Precisamos falar sobre Black Mirror&amp;rdquo;.
+A série Black Mirror traz muitos elementos das novas tecnologias que fazem parte já de nosso cotidiano e eu acredito que ter uma visão crítica sobre esses elementos é fundamental para nossa formação contínua e para refletirmos sobre o que queremos ensinar ao aluno do século XXI.</description>
+    </item>
+    
+    <item>
+      <title>Uma ajuda para tirar do papel projetos educacionais</title>
+      <link>https://mupi.github.io/dicas/dicas/projeto-floreser/</link>
+      <pubDate>Tue, 28 Mar 2017 18:07:58 -0300</pubDate>
+      
+      <guid>https://mupi.github.io/dicas/dicas/projeto-floreser/</guid>
+      <description>Oi, tudo bem?
+Durante essa semana, conheci o projeto SomosProfessores.org, uma plataforma de financiamento coletivo feita para apoiar a execução de projetos educacionais propostos por professores da rede pública brasileira. Achei muito interessante o trabalho da associação pois ela dá uma força para aqueles professores que não conseguem (infelizmente) apoio de verba pública para tirar do papel suas propostas educacionais.
+Resumindo um pouco como funciona, lá qualquer professor da rede pública pode submeter sua proposta e qualquer pessoa (como nós) pode entrar no site e contribuir com valores variados para os projetos.</description>
+    </item>
     
     <item>
       <title>Preparamos um infográfico sobre o perfil do professor brasileiro! 🎓</title>
@@ -101,58 +155,6 @@ Como você acompanha nosso trabalho há algum tempo, vim contar uma novidade que
 Estamos lançando em nosso portal mini-cursos online gratuitos com temas voltados para o uso de tecnologia em sala de aula.
 Os cursos são:
  Reflexões sobre educação, tecnologia e sociedade Como utilizar o Twitter em Sala de Aula Google News: seu jornal interativo em sala de aula Objetos de Aprendizagem  Eles são 100% online, gratuitos e com dedicação de estudos estimada de até 5 horas.</description>
-    </item>
-    
-    <item>
-      <title>Migrate from Jekyll</title>
-      <link>https://mupi.github.io/dicas/post/migrate-from-jekyll/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
-      
-      <guid>https://mupi.github.io/dicas/post/migrate-from-jekyll/</guid>
-      <description>&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
-
-&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.
-With Jekyll, something that looked like&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Go is for lovers</title>
-      <link>https://mupi.github.io/dicas/post/go-is-for-lovers/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      
-      <guid>https://mupi.github.io/dicas/post/go-is-for-lovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Hugo is for lovers</title>
-      <link>https://mupi.github.io/dicas/post/hugo-is-for-lovers/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      
-      <guid>https://mupi.github.io/dicas/post/hugo-is-for-lovers/</guid>
-      <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
-
-&lt;p&gt;Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the
-appropriate version for your os and architecture.&lt;/p&gt;
-
-&lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;
-
-&lt;p&gt;More complete instructions are available at &lt;a href=&#34;https://mupi.github.io/dicas/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Creating a new theme</title>
-      <link>https://mupi.github.io/dicas/post/creating-a-new-theme/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>https://mupi.github.io/dicas/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
   </channel>
