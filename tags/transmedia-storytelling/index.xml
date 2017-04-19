@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transmedia Storytelling on Novidades no mundo da educação - MasterAula</title>
+    <link>https://example.org/tags/transmedia-storytelling/</link>
+    <description>Recent content in Transmedia Storytelling on Novidades no mundo da educação - MasterAula</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>“Dicas MasterAula” por MasterAula está sob licença [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).</copyright>
+    <lastBuildDate>Mon, 16 May 2016 20:22:51 -0300</lastBuildDate>
+    
+	<atom:link href="https://example.org/tags/transmedia-storytelling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Você sabe o que é Transmedia Storytelling?</title>
+      <link>https://example.org/dicas/curso-transmidia/</link>
+      <pubDate>Mon, 16 May 2016 20:22:51 -0300</pubDate>
+      
+      <guid>https://example.org/dicas/curso-transmidia/</guid>
+      <description>Olá, tudo bem?
+Gostaria de compartilhar com você o mais novo curso lançado em nossa plataforma , sobre Transmedia Storytelling. Com esse nome em inglês, até parece que é algo difícil, mas já explico do que se trata!
+Transmedia Storytelling (narrativa transmídia) é a técnica por meio da qual uma narrativa específica é trabalhada de forma simultânea em diferentes plataformas, sendo que cada uma de suas frentes oferece um conteúdo exclusivo sobre a história principal.</description>
+    </item>
+    
+  </channel>
+</rss>

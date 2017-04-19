@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cursos on Novidades no mundo da educação - MasterAula</title>
+    <link>https://example.org/tags/cursos/</link>
+    <description>Recent content in Cursos on Novidades no mundo da educação - MasterAula</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>“Dicas MasterAula” por MasterAula está sob licença [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).</copyright>
+    <lastBuildDate>Mon, 16 May 2016 20:22:51 -0300</lastBuildDate>
+    
+	<atom:link href="https://example.org/tags/cursos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Você sabe o que é Transmedia Storytelling?</title>
+      <link>https://example.org/dicas/curso-transmidia/</link>
+      <pubDate>Mon, 16 May 2016 20:22:51 -0300</pubDate>
+      
+      <guid>https://example.org/dicas/curso-transmidia/</guid>
+      <description>Olá, tudo bem?
+Gostaria de compartilhar com você o mais novo curso lançado em nossa plataforma , sobre Transmedia Storytelling. Com esse nome em inglês, até parece que é algo difícil, mas já explico do que se trata!
+Transmedia Storytelling (narrativa transmídia) é a técnica por meio da qual uma narrativa específica é trabalhada de forma simultânea em diferentes plataformas, sendo que cada uma de suas frentes oferece um conteúdo exclusivo sobre a história principal.</description>
+    </item>
+    
+    <item>
+      <title>Cursos gratuitos de formação continuada para professores</title>
+      <link>https://example.org/dicas/cursos-gratuitos-mupi/</link>
+      <pubDate>Tue, 01 Mar 2016 18:38:18 -0300</pubDate>
+      
+      <guid>https://example.org/dicas/cursos-gratuitos-mupi/</guid>
+      <description>Olá, tudo bem?
+Como você acompanha nosso trabalho há algum tempo, vim contar uma novidade que estamos felizes em compartilhar.
+Estamos lançando em nosso portal mini-cursos online gratuitos com temas voltados para o uso de tecnologia em sala de aula.
+Os cursos são:
+ Reflexões sobre educação, tecnologia e sociedade Como utilizar o Twitter em Sala de Aula Google News: seu jornal interativo em sala de aula Objetos de Aprendizagem  Eles são 100% online, gratuitos e com dedicação de estudos estimada de até 5 horas.</description>
+    </item>
+    
+  </channel>
+</rss>
