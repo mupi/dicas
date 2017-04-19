@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Curadoria on Novidades no mundo da educação - MasterAula</title>
-    <link>https://example.org/tags/curadoria/</link>
+    <link>https://mupi.github.io/dicas/tags/curadoria/</link>
     <description>Recent content in Curadoria on Novidades no mundo da educação - MasterAula</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>“Dicas MasterAula” por MasterAula está sob licença [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).</copyright>
     <lastBuildDate>Mon, 20 Jun 2016 20:33:19 -0300</lastBuildDate>
     
-	<atom:link href="https://example.org/tags/curadoria/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mupi.github.io/dicas/tags/curadoria/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Kid Should See This</title>
-      <link>https://example.org/dicas/the-kid-should-see-this/</link>
+      <link>https://mupi.github.io/dicas/dicas/the-kid-should-see-this/</link>
       <pubDate>Mon, 20 Jun 2016 20:33:19 -0300</pubDate>
       
-      <guid>https://example.org/dicas/the-kid-should-see-this/</guid>
+      <guid>https://mupi.github.io/dicas/dicas/the-kid-should-see-this/</guid>
       <description>Olá, tudo bem?
 Gostaria de apresentar para você o site The Kid Should See This (em tradução livre, “a criança deveria ver isto”). A proposta deste site é reunir vídeos interessantes para crianças (e para os adultos também), mas que não sejam necessariamente voltados ao público infantil. Mas por que estou mostrando isso? Bom, veja que história interessante!
 A diretora de design Rion Nakaya, mãe de duas crianças de 5 e 8 anos, começou o projeto simplesmente reunindo vídeos que ela achava interessantes para mostrar aos filhos, que agora também ajudam a mãe nessa curadoria de materiais.</description>
