@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sobres on Novidades no mundo da educação - MasterAula</title>
+    <link>https://dicas.masteraula.com.br/sobre/</link>
+    <description>Recent content in Sobres on Novidades no mundo da educação - MasterAula</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>“Dicas MasterAula” por MasterAula está sob licença [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).</copyright>
+    <lastBuildDate>Tue, 25 Apr 2017 20:22:51 -0300</lastBuildDate>
+    
+	<atom:link href="https://dicas.masteraula.com.br/sobre/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quem Somos</title>
+      <link>https://dicas.masteraula.com.br/sobre/quem-somos/</link>
+      <pubDate>Tue, 25 Apr 2017 20:22:51 -0300</pubDate>
+      
+      <guid>https://dicas.masteraula.com.br/sobre/quem-somos/</guid>
+      <description>Trabalhamos com educação desde 2012 com o foco no desenvolvimento de soluções para educadores quanto ao uso de tecnologia para educação. Nosso trabalho é desenvolvido diretamente com educadores e em parceria com instituições de ensino.
+Temos um portal de cursos online para formação de professores nos novos letramentos (incluindo os letramentos que envolvem o digital) e nas novas tecnologias e metodologias, visando a inovação nas práticas de ensino que abrangem as competências do século XXI.</description>
+    </item>
+    
+  </channel>
+</rss>
